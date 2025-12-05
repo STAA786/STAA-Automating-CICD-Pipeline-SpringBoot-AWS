@@ -1,0 +1,38 @@
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker
+docker-compose.override.yml
+.docker/
+
+# Others
+.imagedefinitions.json
+
